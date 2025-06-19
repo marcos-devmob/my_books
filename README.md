@@ -34,9 +34,6 @@ This project was created to consolidate my learning in Android development, appl
 📇 Author
 Developed by Marcos Aurélio Alves
 
-💻 GitHub Profile
-
-📱 LinkedIn
 
 License
 This project is for study purposes only and has no commercial license.
